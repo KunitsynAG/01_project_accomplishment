@@ -48,6 +48,7 @@
 						</v8:item>
 					</ToolTip>
 					<Group>AlwaysHorizontal</Group>
+					<Behavior>Usual</Behavior>
 					<Representation>None</Representation>
 					<ShowTitle>false</ShowTitle>
 					<ExtendedTooltip name="ГруппаКомандыРасширеннаяПодсказка" id="11"/>
@@ -248,6 +249,7 @@
 								<UsualGroup name="Группа1" id="53">
 									<Group>Vertical</Group>
 									<ChildrenAlign>ItemsLeftTitlesLeft</ChildrenAlign>
+									<Behavior>Usual</Behavior>
 									<ExtendedTooltip name="Группа1РасширеннаяПодсказка" id="54"/>
 									<ChildItems>
 										<InputField name="КлючМаршрутизации" id="55">
