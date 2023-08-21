@@ -83,7 +83,7 @@
 		<Metadata name="CommonModule.ОбменДаннымиВПБПВызовСервера.Module" id="47df2fc3-42f0-4c4a-b15e-e9999bc4a92c.0" configVersion="82b45f8229d1394cbc1df78c209862e300000000"/>
 		<Metadata name="CommonModule.ОбменДаннымиВПБПСервер" id="632dfce0-c57e-40ff-aa7d-b32df51043eb" configVersion="dcde641647d63549a491b25ff46fc88c00000000"/>
 		<Metadata name="CommonModule.ОбменДаннымиВПБПСервер.Module" id="632dfce0-c57e-40ff-aa7d-b32df51043eb.0" configVersion="63db45d4ab7519449bca60d55db3856800000000"/>
-		<Metadata name="Configuration.Выполнение" id="7af2ae9d-fb3f-412d-8785-876971e65346" configVersion="e9c7008a94312841b929986cc838189300000000"/>
+		<Metadata name="Configuration.Выполнение" id="7af2ae9d-fb3f-412d-8785-876971e65346" configVersion="1c7590936566f941ac5a531bdfbd22cd00000000"/>
 		<Metadata name="DataProcessor.АРМВыполнение" id="a6ec471f-3f68-4149-86f2-d967588a4e6c" configVersion="9f8c1e9026b66d47a2982bdffdd5835700000000"/>
 		<Metadata name="DataProcessor.АРМВыполнение.Form.Форма" id="415dd3f3-4f9e-46ef-8415-2b5cef777d84" configVersion="deadb25f34b5544ab67ba8c4de5e8df600000000"/>
 		<Metadata name="DataProcessor.АРМВыполнение.Form.Форма.Form" id="415dd3f3-4f9e-46ef-8415-2b5cef777d84.0" configVersion="45f764096cf60c498b16fef267a6e4d900000000"/>
@@ -136,6 +136,8 @@
 		<Metadata name="InformationRegister.НастройкиОбменаRMQ.Form.ФормаСписка.Form" id="0dcbd188-9133-47b3-9b06-b37545f7722f.0" configVersion="4c2fea6a1f37ed4198e74bd17de51ab100000000"/>
 		<Metadata name="InformationRegister.НастройкиОбменаRMQ.Form.ФормаСписка.Help" id="0dcbd188-9133-47b3-9b06-b37545f7722f.1" configVersion="dc1c41170c732846bf62b9fc71decb2e00000000"/>
 		<Metadata name="Language.Русский" id="a65ca3f7-b87b-4535-a3d3-223f81eaef62" configVersion="93354c484d136949a32901de5e8607ff00000000"/>
+		<Metadata name="Role.ПолныеПрава" id="7f4f20a4-4452-48a0-957c-e58c56505b37" configVersion="ebc3c4ebef5aaa4fa96283123df2daca00000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="7f4f20a4-4452-48a0-957c-e58c56505b37.0" configVersion="2deae7035118084da10f5f7610480b4c00000000"/>
 		<Metadata name="Subsystem.Выполнение" id="67f3d683-e9fd-468a-870a-fd89ea275453" configVersion="d57b5a25e9ca7746b9868f3ee328c32800000000"/>
 		<Metadata name="Subsystem.НСИ" id="08638698-d13e-446c-91fb-cc647b2f9838" configVersion="07151697d309d247b95ce5f9ea88d9b600000000"/>
 		<Metadata name="Subsystem.ОбменДанными" id="037413ea-daf1-4c9b-bcd6-728ac1a26549" configVersion="b32a38ed1a85a1469680c7b1a8af7b4f00000000"/>

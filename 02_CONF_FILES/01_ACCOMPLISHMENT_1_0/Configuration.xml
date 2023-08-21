@@ -232,6 +232,7 @@
 			<Subsystem>Выполнение</Subsystem>
 			<Subsystem>ОбменДанными</Subsystem>
 			<Subsystem>НСИ</Subsystem>
+			<Role>ПолныеПрава</Role>
 			<CommonModule>ОбменДаннымиВПБПСервер</CommonModule>
 			<CommonModule>ОбменДаннымиВПБПВызовСервера</CommonModule>
 			<ExchangePlan>ПланОбмена_Выполнение_1_0_и_БП_3_0</ExchangePlan>
