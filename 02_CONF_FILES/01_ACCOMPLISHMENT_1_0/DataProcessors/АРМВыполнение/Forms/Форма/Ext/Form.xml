@@ -401,7 +401,12 @@
 						</v8:item>
 					</Title>
 					<Type>
-						<v8:TypeId>0f45baa3-aed5-48e8-b8c4-d7402102101c</v8:TypeId>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>15</v8:Digits>
+							<v8:FractionDigits>2</v8:FractionDigits>
+							<v8:AllowedSign>Nonnegative</v8:AllowedSign>
+						</v8:NumberQualifiers>
 					</Type>
 				</Column>
 				<Column name="Сумма" id="6">
@@ -412,7 +417,12 @@
 						</v8:item>
 					</Title>
 					<Type>
-						<v8:TypeId>e8275e1c-4d54-4dfe-8461-181cfc6d102e</v8:TypeId>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>15</v8:Digits>
+							<v8:FractionDigits>2</v8:FractionDigits>
+							<v8:AllowedSign>Nonnegative</v8:AllowedSign>
+						</v8:NumberQualifiers>
 					</Type>
 				</Column>
 				<Column name="Клиент" id="7">
@@ -445,7 +455,12 @@
 						</v8:item>
 					</Title>
 					<Type>
-						<v8:TypeId>0f45baa3-aed5-48e8-b8c4-d7402102101c</v8:TypeId>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>15</v8:Digits>
+							<v8:FractionDigits>2</v8:FractionDigits>
+							<v8:AllowedSign>Nonnegative</v8:AllowedSign>
+						</v8:NumberQualifiers>
 					</Type>
 				</Column>
 				<Column name="СуммаЗакупки" id="10">
@@ -456,7 +471,12 @@
 						</v8:item>
 					</Title>
 					<Type>
-						<v8:TypeId>e8275e1c-4d54-4dfe-8461-181cfc6d102e</v8:TypeId>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>15</v8:Digits>
+							<v8:FractionDigits>2</v8:FractionDigits>
+							<v8:AllowedSign>Nonnegative</v8:AllowedSign>
+						</v8:NumberQualifiers>
 					</Type>
 				</Column>
 				<Column name="КоличествоПоступило" id="11">

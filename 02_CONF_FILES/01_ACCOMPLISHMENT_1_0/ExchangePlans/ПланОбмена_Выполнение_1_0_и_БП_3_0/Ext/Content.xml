@@ -17,7 +17,19 @@
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Catalog.НоменклатураКлиентов</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Document.ПоступлениеТоваровУслугПредварительное</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Catalog.Контрагенты</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Catalog.СпецификацииКлиентов</Metadata>
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 </ExchangePlanContent>
