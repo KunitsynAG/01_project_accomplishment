@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Catalog.ВидыНоменклатуры" id="20ca62d8-5029-4590-8187-7e3a1513c5b0" configVersion="9be259679b4ef847a43da73d4e75127d00000000">
+			<Metadata name="Catalog.ВидыНоменклатуры.Attribute.Услуга" id="2bd8cd13-6cbf-4a47-8082-a5757481bd0b"/>
+		</Metadata>
+		<Metadata name="Catalog.ВидыНоменклатуры.Help" id="20ca62d8-5029-4590-8187-7e3a1513c5b0.1" configVersion="adc703619e9b514cb30ffdba77b51d9d00000000"/>
+		<Metadata name="Catalog.ВидыНоменклатуры.ManagerModule" id="20ca62d8-5029-4590-8187-7e3a1513c5b0.3" configVersion="10504681f7e04943a110e2f65e0f545100000000"/>
+		<Metadata name="Catalog.ВидыНоменклатуры.ObjectModule" id="20ca62d8-5029-4590-8187-7e3a1513c5b0.0" configVersion="341f0dbf4ac85945b9353bc8f05fb6ac00000000"/>
+		<Metadata name="Catalog.ВидыНоменклатуры.Predefined" id="20ca62d8-5029-4590-8187-7e3a1513c5b0.1c" configVersion="38b31267dbc72c4d939db2ae71e655b600000000"/>
+		<Metadata name="Catalog.КлассификаторЕдиницИзмерения" id="a5cda118-d04a-4dce-8190-e60d7258f674" configVersion="4dd886dd2794684a93d03e21a51a47da00000000">
+			<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Attribute.НаименованиеПолное" id="9b48a379-6f26-4105-ac38-00da11d34045"/>
+		</Metadata>
+		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Help" id="a5cda118-d04a-4dce-8190-e60d7258f674.1" configVersion="b546acc33e3c5b40bb5b9a3d5a8f620a00000000"/>
+		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.ManagerModule" id="a5cda118-d04a-4dce-8190-e60d7258f674.3" configVersion="1a0a66a7544ca3418be594ba4e29687d00000000"/>
+		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.ObjectModule" id="a5cda118-d04a-4dce-8190-e60d7258f674.0" configVersion="9e2d5874b2f2d5489517ed5f7540032700000000"/>
+		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Predefined" id="a5cda118-d04a-4dce-8190-e60d7258f674.1c" configVersion="665ff39b682c4b4fb31629ffe3d476f600000000"/>
+		<Metadata name="Catalog.Контрагенты" id="bbbc4126-77b6-412a-b347-bc46994cec70" configVersion="6cf30caedca8764ca1486255bb226de200000000">
+			<Metadata name="Catalog.Контрагенты.Attribute.СтранаРегистрации" id="3742d14b-5360-4de7-ab29-3965aaa75c0e"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.НаименованиеПолное" id="402156c5-70de-41d9-88ed-ae111e169deb"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.КПП" id="4d262150-6ae1-44bc-b3b2-9e1a3f8f9b54"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.КодПоОКПО" id="7ec4ecbb-11f9-43ac-8351-636b8be3ff68"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ИНН" id="8d1c7b01-b799-4e50-990b-63b660a113a2"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ЮридическоеФизическоеЛицо" id="b25bb33e-9811-4633-8c80-cb95ad77fc8a"/>
+		</Metadata>
+		<Metadata name="Catalog.Контрагенты.Help" id="bbbc4126-77b6-412a-b347-bc46994cec70.1" configVersion="c22a3ca6b9af114dbec81d15ac158d6d00000000"/>
+		<Metadata name="Catalog.Контрагенты.ManagerModule" id="bbbc4126-77b6-412a-b347-bc46994cec70.3" configVersion="06a6b1a4a8bee34d9b5c8e38b37bfa8e00000000"/>
+		<Metadata name="Catalog.Контрагенты.ObjectModule" id="bbbc4126-77b6-412a-b347-bc46994cec70.0" configVersion="0dce628cbeddbb49b73bb11b0bfcc98700000000"/>
+		<Metadata name="Catalog.Контрагенты.Predefined" id="bbbc4126-77b6-412a-b347-bc46994cec70.1c" configVersion="bade79509afbe54787e8874646c17e8800000000"/>
+		<Metadata name="Catalog.Номенклатура" id="3d9840a7-4c96-4672-8621-9b26412c944d" configVersion="5cb9412edbc0894199aaee1597cde4aa00000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.ЕдиницаИзмерения" id="33c60f68-6757-497d-be42-2f47e101bf2b"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ВидНоменклатуры" id="447d5943-9112-46fc-98a3-5cc8f667717c"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.НаименованиеПолное" id="ea65d0e0-373e-4c06-924b-b4e17a26d427"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура.Help" id="3d9840a7-4c96-4672-8621-9b26412c944d.1" configVersion="23d82bfde19f9e40bdfffac07c4cd1ab00000000"/>
+		<Metadata name="Catalog.Номенклатура.ManagerModule" id="3d9840a7-4c96-4672-8621-9b26412c944d.3" configVersion="a593cfb207c7b74c907407f2a7dbbc9200000000"/>
+		<Metadata name="Catalog.Номенклатура.ObjectModule" id="3d9840a7-4c96-4672-8621-9b26412c944d.0" configVersion="b48d2e13c7e8c2439251e18c6cbf5ce300000000"/>
+		<Metadata name="Catalog.Номенклатура.Predefined" id="3d9840a7-4c96-4672-8621-9b26412c944d.1c" configVersion="2492f84090d1094bbe14c5cda617b18b00000000"/>
+		<Metadata name="Catalog.СтраныМира" id="b8ac3b67-e1c8-4ba7-a0f2-96ea0dd93c9e" configVersion="26fa874306f69e47bc82bdb1ac6abca400000000">
+			<Metadata name="Catalog.СтраныМира.Attribute.КодАльфа3" id="24ad6812-6d36-4b8b-81d6-ff31b8137649"/>
+			<Metadata name="Catalog.СтраныМира.Attribute.КодАльфа2" id="6e636846-2b6e-4fd4-aca1-8e7945903fe2"/>
+			<Metadata name="Catalog.СтраныМира.Attribute.УчастникЕАЭС" id="90c11f54-f64f-4613-9c06-92505f70339f"/>
+			<Metadata name="Catalog.СтраныМира.Attribute.НаименованиеПолное" id="cd399337-077d-47ed-87ca-38a73195ddda"/>
+			<Metadata name="Catalog.СтраныМира.Attribute.МеждународноеНаименование" id="d17e4075-ef5a-4ebb-9a44-6c1096d09916"/>
+		</Metadata>
+		<Metadata name="Catalog.СтраныМира.Help" id="b8ac3b67-e1c8-4ba7-a0f2-96ea0dd93c9e.1" configVersion="c90cb5af8490b94d8a760b08ed07a6d200000000"/>
+		<Metadata name="Catalog.СтраныМира.ManagerModule" id="b8ac3b67-e1c8-4ba7-a0f2-96ea0dd93c9e.3" configVersion="cca080862cc8c146a60d3182c26f5ecf00000000"/>
+		<Metadata name="Catalog.СтраныМира.ObjectModule" id="b8ac3b67-e1c8-4ba7-a0f2-96ea0dd93c9e.0" configVersion="3d6e82300e565040899841acc1bad8d200000000"/>
+		<Metadata name="Catalog.СтраныМира.Predefined" id="b8ac3b67-e1c8-4ba7-a0f2-96ea0dd93c9e.1c" configVersion="51b395524e8b38449307576f1767de5700000000"/>
+		<Metadata name="Configuration.БП_3_0_Имитация" id="c88b9ca3-34a0-4b54-b173-f642ece5910f" configVersion="619fcc1e0b765140ab0290f0f48a7c9800000000"/>
+		<Metadata name="Configuration.БП_3_0_Имитация.ClientApplicationInterface" id="f979acdc-1088-46b6-bb33-31457e2fc1fb.b" configVersion="6862b6737e706144a9e92a73e85190bf00000000"/>
+		<Metadata name="Configuration.БП_3_0_Имитация.MainSectionCommandInterface" id="f979acdc-1088-46b6-bb33-31457e2fc1fb.9" configVersion="6dc550a2ea524940a5af2542db2f766f00000000"/>
+		<Metadata name="Enum.ЮридическоеФизическоеЛицо" id="c9257784-1251-411b-b5dc-90dce8be58e9" configVersion="83bf53f0d764e84fa6fd2e9b8fd6a4e000000000">
+			<Metadata name="Enum.ЮридическоеФизическоеЛицо.EnumValue.ФизическоеЛицо" id="5f55de79-b111-4c2e-ac06-bc7e186d2377"/>
+			<Metadata name="Enum.ЮридическоеФизическоеЛицо.EnumValue.ЮридическоеЛицо" id="78e3502c-91f6-4556-8bab-299e7b8ee461"/>
+		</Metadata>
+		<Metadata name="Enum.ЮридическоеФизическоеЛицо.ManagerModule" id="c9257784-1251-411b-b5dc-90dce8be58e9.0" configVersion="3da4a55480fc2f4aa75b7cc3e3559c4d00000000"/>
+		<Metadata name="Language.Русский" id="787431c3-1adf-44ac-9c30-71d4ef8d85c0" configVersion="9d754e6635880640a94d4cc8a416590200000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
