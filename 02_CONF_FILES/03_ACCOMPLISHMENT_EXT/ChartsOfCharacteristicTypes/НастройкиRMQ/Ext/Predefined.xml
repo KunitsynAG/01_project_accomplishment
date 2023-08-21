@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="PlanOfCharacteristicKindPredefinedItems" version="2.16">
+	<Item id="6d495390-723a-4444-924b-12c3036a8ebf">
+		<Name>Адрес</Name>
+		<Code>000000001</Code>
+		<Description>Адрес</Description>
+		<Type>
+			<v8:Type>xs:string</v8:Type>
+			<v8:StringQualifiers>
+				<v8:Length>1000</v8:Length>
+				<v8:AllowedLength>Variable</v8:AllowedLength>
+			</v8:StringQualifiers>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="e4f03ddb-1cfe-4f8a-8856-87d39727bc35">
+		<Name>Ключ</Name>
+		<Code>000000006</Code>
+		<Description>Ключ</Description>
+		<Type>
+			<v8:Type>xs:string</v8:Type>
+			<v8:StringQualifiers>
+				<v8:Length>50</v8:Length>
+				<v8:AllowedLength>Variable</v8:AllowedLength>
+			</v8:StringQualifiers>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="29dc4e9d-25c7-47ad-9456-4723ff8c25cf">
+		<Name>Логин</Name>
+		<Code>000000003</Code>
+		<Description>Логин</Description>
+		<Type>
+			<v8:Type>xs:string</v8:Type>
+			<v8:StringQualifiers>
+				<v8:Length>50</v8:Length>
+				<v8:AllowedLength>Variable</v8:AllowedLength>
+			</v8:StringQualifiers>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="e28f9e7d-acd5-4921-8d4d-f9901faf83f3">
+		<Name>Очередь</Name>
+		<Code>000000008</Code>
+		<Description>Очередь</Description>
+		<Type>
+			<v8:Type>xs:string</v8:Type>
+			<v8:StringQualifiers>
+				<v8:Length>50</v8:Length>
+				<v8:AllowedLength>Variable</v8:AllowedLength>
+			</v8:StringQualifiers>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="df121d73-b850-41a5-92b3-77e168fc6cb1">
+		<Name>Пароль</Name>
+		<Code>000000004</Code>
+		<Description>Пароль</Description>
+		<Type>
+			<v8:Type>xs:string</v8:Type>
+			<v8:StringQualifiers>
+				<v8:Length>50</v8:Length>
+				<v8:AllowedLength>Variable</v8:AllowedLength>
+			</v8:StringQualifiers>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="832956cf-d357-4fd4-a741-c7f7985986bb">
+		<Name>Порт</Name>
+		<Code>000000002</Code>
+		<Description>Порт</Description>
+		<Type>
+			<v8:Type>xs:decimal</v8:Type>
+			<v8:NumberQualifiers>
+				<v8:Digits>6</v8:Digits>
+				<v8:FractionDigits>0</v8:FractionDigits>
+				<v8:AllowedSign>Nonnegative</v8:AllowedSign>
+			</v8:NumberQualifiers>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="b88ec7d5-3e67-485a-a051-993fbdd3cbee">
+		<Name>Точка</Name>
+		<Code>000000007</Code>
+		<Description>Точка</Description>
+		<Type>
+			<v8:Type>xs:string</v8:Type>
+			<v8:StringQualifiers>
+				<v8:Length>50</v8:Length>
+				<v8:AllowedLength>Variable</v8:AllowedLength>
+			</v8:StringQualifiers>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="7854b5c7-b0d7-4d96-b53a-31c71a1cdb9b">
+		<Name>Хост</Name>
+		<Code>000000005</Code>
+		<Description>Хост</Description>
+		<Type>
+			<v8:Type>xs:string</v8:Type>
+			<v8:StringQualifiers>
+				<v8:Length>50</v8:Length>
+				<v8:AllowedLength>Variable</v8:AllowedLength>
+			</v8:StringQualifiers>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>

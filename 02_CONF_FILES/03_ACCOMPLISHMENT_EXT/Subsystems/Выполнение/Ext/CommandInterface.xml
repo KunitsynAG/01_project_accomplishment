@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<CommandsVisibility>
+		<Command name="ChartOfCharacteristicTypes.НастройкиRMQ.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.ВидыНоменклатуры.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.КлассификаторЕдиницИзмерения.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.Номенклатура.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.СтраныМира.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.Контрагенты.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="ExchangePlan.ПланОбмена_Выполнение_1_0_и_БП_3_0.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="InformationRegister.НастройкиОбменаRMQ.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.НоменклатураКлиентов.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.СпецификацииКлиентов.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Document.ПоступлениеТоваровУслугПредварительное.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+	</CommandsVisibility>
+	<CommandsPlacement>
+		<Command name="Catalog.ВидыНоменклатуры.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Справочники_БП_3_0</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.КлассификаторЕдиницИзмерения.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Справочники_БП_3_0</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.Номенклатура.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Справочники_БП_3_0</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.СтраныМира.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Справочники_БП_3_0</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.Контрагенты.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Справочники_БП_3_0</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="ExchangePlan.ПланОбмена_Выполнение_1_0_и_БП_3_0.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Обмен</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="InformationRegister.НастройкиОбменаRMQ.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Обмен</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.НоменклатураКлиентов.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Справочники_Выполнение_1_0</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.СпецификацииКлиентов.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Справочники_Выполнение_1_0</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Document.ПоступлениеТоваровУслугПредварительное.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Документы_Выполнение_1_0</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+	</CommandsPlacement>
+	<CommandsOrder>
+		<Command name="Catalog.ВидыНоменклатуры.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Справочники_БП_3_0</CommandGroup>
+		</Command>
+		<Command name="Catalog.КлассификаторЕдиницИзмерения.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Справочники_БП_3_0</CommandGroup>
+		</Command>
+		<Command name="Catalog.Номенклатура.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Справочники_БП_3_0</CommandGroup>
+		</Command>
+		<Command name="Catalog.СтраныМира.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Справочники_БП_3_0</CommandGroup>
+		</Command>
+		<Command name="Catalog.Контрагенты.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Справочники_БП_3_0</CommandGroup>
+		</Command>
+		<Command name="ExchangePlan.ПланОбмена_Выполнение_1_0_и_БП_3_0.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Обмен</CommandGroup>
+		</Command>
+		<Command name="InformationRegister.НастройкиОбменаRMQ.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Обмен</CommandGroup>
+		</Command>
+		<Command name="Catalog.НоменклатураКлиентов.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Справочники_Выполнение_1_0</CommandGroup>
+		</Command>
+		<Command name="Catalog.СпецификацииКлиентов.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Справочники_Выполнение_1_0</CommandGroup>
+		</Command>
+		<Command name="Document.ПоступлениеТоваровУслугПредварительное.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ВП_Документы_Выполнение_1_0</CommandGroup>
+		</Command>
+	</CommandsOrder>
+	<GroupsOrder>
+		<Group>CommandGroup.ВП_Справочники_БП_3_0</Group>
+		<Group>CommandGroup.ВП_Обмен</Group>
+		<Group>CommandGroup.ВП_Справочники_Выполнение_1_0</Group>
+		<Group>CommandGroup.ВП_Документы_Выполнение_1_0</Group>
+	</GroupsOrder>
+</CommandInterface>
